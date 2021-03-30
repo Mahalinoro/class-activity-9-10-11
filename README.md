@@ -2,6 +2,6 @@
 
 - A simple Flutter Application using Firebase authentication to sign in with Google.
 
-- Added some new packages (firebase_auth, google_sign_in and provider)
+- Added some packages and plugins (firebase_auth, google_sign_in and provider)
 - In test/ folder, a file containing a simple pratice of widget testing
 
